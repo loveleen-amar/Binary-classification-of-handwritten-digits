@@ -1,0 +1,2 @@
+# Binary-classification-of-handwritten-digits
+This is an ML project which uses SGD Classification model to Classify the different handwritten digits, The ipnb file also has the calculation of F1 Score, precision, recall. Here cross validation is done both by using Library method as well as by scratch. ROC Curve  (Receiver Operating Characteristic Curve) has also been done as it is very important measure of performance of binary classifiers)
